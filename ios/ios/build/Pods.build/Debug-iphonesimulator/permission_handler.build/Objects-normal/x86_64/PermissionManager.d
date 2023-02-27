@@ -1,0 +1,40 @@
+dependencies: \
+  /Users/lakshyagupta/.pub-cache/hosted/pub.dartlang.org/permission_handler-8.3.0/ios/Classes/PermissionManager.m \
+  /Users/lakshyagupta/Desktop/new/jhatfatflutteriosnew/ios/build/Pods.build/Debug-iphonesimulator/permission_handler.build/module.modulemap \
+  /Users/lakshyagupta/Desktop/new/jhatfatflutteriosnew/ios/Pods/Target\ Support\ Files/permission_handler/permission_handler-prefix.pch \
+  /Users/lakshyagupta/.pub-cache/hosted/pub.dartlang.org/permission_handler-8.3.0/ios/Classes/PermissionManager.h \
+  /Users/lakshyagupta/fvm/versions/3.3.0/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Modules/module.modulemap \
+  /Users/lakshyagupta/fvm/versions/3.3.0/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterViewController.h \
+  /Users/lakshyagupta/fvm/versions/3.3.0/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h \
+  /Users/lakshyagupta/fvm/versions/3.3.0/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterHeadlessDartRunner.h \
+  /Users/lakshyagupta/fvm/versions/3.3.0/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterEngineGroup.h \
+  /Users/lakshyagupta/fvm/versions/3.3.0/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterEngine.h \
+  /Users/lakshyagupta/fvm/versions/3.3.0/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterDartProject.h \
+  /Users/lakshyagupta/fvm/versions/3.3.0/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterCallbackCache.h \
+  /Users/lakshyagupta/fvm/versions/3.3.0/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterTexture.h \
+  /Users/lakshyagupta/fvm/versions/3.3.0/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterPlatformViews.h \
+  /Users/lakshyagupta/fvm/versions/3.3.0/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterCodecs.h \
+  /Users/lakshyagupta/fvm/versions/3.3.0/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterChannels.h \
+  /Users/lakshyagupta/fvm/versions/3.3.0/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterBinaryMessenger.h \
+  /Users/lakshyagupta/fvm/versions/3.3.0/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterPlugin.h \
+  /Users/lakshyagupta/fvm/versions/3.3.0/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterMacros.h \
+  /Users/lakshyagupta/fvm/versions/3.3.0/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterAppDelegate.h \
+  /Users/lakshyagupta/fvm/versions/3.3.0/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/Flutter.h \
+  /Users/lakshyagupta/.pub-cache/hosted/pub.dartlang.org/permission_handler-8.3.0/ios/Classes/strategies/AudioVideoPermissionStrategy.h \
+  /Users/lakshyagupta/.pub-cache/hosted/pub.dartlang.org/permission_handler-8.3.0/ios/Classes/strategies/PermissionStrategy.h \
+  /Users/lakshyagupta/.pub-cache/hosted/pub.dartlang.org/permission_handler-8.3.0/ios/Classes/PermissionHandlerEnums.h \
+  /Users/lakshyagupta/.pub-cache/hosted/pub.dartlang.org/permission_handler-8.3.0/ios/Classes/strategies/UnknownPermissionStrategy.h \
+  /Users/lakshyagupta/.pub-cache/hosted/pub.dartlang.org/permission_handler-8.3.0/ios/Classes/strategies/AppTrackingTransparencyPermissionStrategy.h \
+  /Users/lakshyagupta/.pub-cache/hosted/pub.dartlang.org/permission_handler-8.3.0/ios/Classes/strategies/BluetoothPermissionStrategy.h \
+  /Users/lakshyagupta/.pub-cache/hosted/pub.dartlang.org/permission_handler-8.3.0/ios/Classes/strategies/ContactPermissionStrategy.h \
+  /Users/lakshyagupta/.pub-cache/hosted/pub.dartlang.org/permission_handler-8.3.0/ios/Classes/strategies/EventPermissionStrategy.h \
+  /Users/lakshyagupta/.pub-cache/hosted/pub.dartlang.org/permission_handler-8.3.0/ios/Classes/strategies/LocationPermissionStrategy.h \
+  /Users/lakshyagupta/.pub-cache/hosted/pub.dartlang.org/permission_handler-8.3.0/ios/Classes/strategies/MediaLibraryPermissionStrategy.h \
+  /Users/lakshyagupta/.pub-cache/hosted/pub.dartlang.org/permission_handler-8.3.0/ios/Classes/strategies/PhonePermissionStrategy.h \
+  /Users/lakshyagupta/.pub-cache/hosted/pub.dartlang.org/permission_handler-8.3.0/ios/Classes/strategies/PhotoPermissionStrategy.h \
+  /Users/lakshyagupta/.pub-cache/hosted/pub.dartlang.org/permission_handler-8.3.0/ios/Classes/strategies/SensorPermissionStrategy.h \
+  /Users/lakshyagupta/.pub-cache/hosted/pub.dartlang.org/permission_handler-8.3.0/ios/Classes/strategies/SpeechPermissionStrategy.h \
+  /Users/lakshyagupta/.pub-cache/hosted/pub.dartlang.org/permission_handler-8.3.0/ios/Classes/strategies/StoragePermissionStrategy.h \
+  /Users/lakshyagupta/.pub-cache/hosted/pub.dartlang.org/permission_handler-8.3.0/ios/Classes/strategies/NotificationPermissionStrategy.h \
+  /Users/lakshyagupta/.pub-cache/hosted/pub.dartlang.org/permission_handler-8.3.0/ios/Classes/strategies/CriticalAlertsPermissionStrategy.h \
+  /Users/lakshyagupta/.pub-cache/hosted/pub.dartlang.org/permission_handler-8.3.0/ios/Classes/util/Codec.h

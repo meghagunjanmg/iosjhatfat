@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.7 (swiftlang-5.7.0.127.4 clang-1400.0.29.50)"
+options: "a444164f79ecf3df73af8453c46dc57f8d4f27173ec1a30f30c50aa837f4727a"
+build_start_time: [1667938881, 198168992]
+build_end_time: [1667938892, 858779907]
+inputs:
+  "/Users/lakshyagupta/.pub-cache/hosted/pub.dartlang.org/razorpay_flutter-1.3.0/ios/Classes/RazorpayDelegate.swift": [1667846232, 898777008]
+  "/Users/lakshyagupta/.pub-cache/hosted/pub.dartlang.org/razorpay_flutter-1.3.0/ios/Classes/SwiftRazorpayFlutterPlugin.swift": [1667846232, 891756772]

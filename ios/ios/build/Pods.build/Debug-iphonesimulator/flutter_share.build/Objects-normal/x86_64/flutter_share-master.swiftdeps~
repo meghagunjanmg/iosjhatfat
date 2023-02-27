@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.7 (swiftlang-5.7.0.127.4 clang-1400.0.29.50)"
+options: "b3b9485827819229b6c28dc30d31cc58c8c49e267a0cfc106e3cdb8053f8fd36"
+build_start_time: [1667938967, 890535831]
+build_end_time: [1667938968, 29670953]
+inputs:
+  "/Users/lakshyagupta/.pub-cache/hosted/pub.dartlang.org/flutter_share-2.0.0/ios/Classes/SwiftFlutterSharePlugin.swift": !private [1667846200, 903287410]

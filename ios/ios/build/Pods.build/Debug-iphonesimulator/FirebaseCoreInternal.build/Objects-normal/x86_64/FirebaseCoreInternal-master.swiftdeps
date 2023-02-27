@@ -1,0 +1,27 @@
+version: "Apple Swift version 5.7 (swiftlang-5.7.0.127.4 clang-1400.0.29.50)"
+options: "ea0e3ce3569341b5487579a6def4329f51609eaa7c5ff24e41d6ea7c70f90a7f"
+build_start_time: [1667939214, 180305957]
+build_end_time: [1667939236, 456965923]
+inputs:
+  ? "/Users/lakshyagupta/Desktop/new/jhatfatflutteriosnew/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/Heartbeat.swift"
+  : [1667934892, 869067192]
+  ? "/Users/lakshyagupta/Desktop/new/jhatfatflutteriosnew/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatController.swift"
+  : [1667934892, 888717174]
+  ? "/Users/lakshyagupta/Desktop/new/jhatfatflutteriosnew/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatStorage.swift"
+  : [1667934892, 897466421]
+  ? "/Users/lakshyagupta/Desktop/new/jhatfatflutteriosnew/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatsBundle.swift"
+  : [1667934892, 899236917]
+  ? "/Users/lakshyagupta/Desktop/new/jhatfatflutteriosnew/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatsPayload.swift"
+  : [1667934892, 902130603]
+  ? "/Users/lakshyagupta/Desktop/new/jhatfatflutteriosnew/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/RingBuffer.swift"
+  : [1667934892, 871120452]
+  ? "/Users/lakshyagupta/Desktop/new/jhatfatflutteriosnew/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/Storage.swift"
+  : [1667934892, 867494583]
+  ? "/Users/lakshyagupta/Desktop/new/jhatfatflutteriosnew/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/StorageFactory.swift"
+  : [1667934892, 903861284]
+  ? "/Users/lakshyagupta/Desktop/new/jhatfatflutteriosnew/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/WeakContainer.swift"
+  : [1667934892, 900544881]
+  ? "/Users/lakshyagupta/Desktop/new/jhatfatflutteriosnew/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/_ObjC_HeartbeatController.swift"
+  : [1667934892, 873013019]
+  ? "/Users/lakshyagupta/Desktop/new/jhatfatflutteriosnew/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/_ObjC_HeartbeatsPayload.swift"
+  : [1667934892, 890777349]

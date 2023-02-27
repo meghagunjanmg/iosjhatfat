@@ -1,0 +1,14 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/lakshyagupta/Desktop/new/jhatfatflutteriosnew/ios/build/Debug-iphonesimulator/flutter_share/flutter_share.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/lakshyagupta/Desktop/new/jhatfatflutteriosnew/ios/build/Pods.build/Debug-iphonesimulator/flutter_share.build/unextended-module.modulemap",
+    }]
+  }]
+}
